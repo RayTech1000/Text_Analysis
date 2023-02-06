@@ -1,5 +1,5 @@
 # Text_Analysis
-Repository of Text Analysis in Python. TfidfTransformer and Rake libraries used to analyze text samples and study the words, language.
+Repository of Text Analysis in Python. sklearn/TfidfTransformer and RAKE libraries used to analyze text samples and study the words, language.
 
 The first Python notbeook uses TfidfTransformer, Text from sklearn's library.
 
