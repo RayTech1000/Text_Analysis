@@ -3,8 +3,8 @@ Repository of Text Analysis in Python. TfidfTransformer and Rake libraries used 
 
 The first Python notbeook uses TfidfTransformer, Text from sklearn's library.
 
-The second Python notebook uses Rake, short for Rapid Automatic Keyword Extraction algorithm. Rake extracts keywords, ranks them and scales them.
+The second Python notebook uses RAKE, short for Rapid Automatic Keyword Extraction algorithm. Rake extracts keywords, ranks them and scales them.
 
-Documentation for sklearn, Rake:
+Documentation for sklearn, RAKE:
 https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html
 https://pypi.org/project/rake-nltk/
